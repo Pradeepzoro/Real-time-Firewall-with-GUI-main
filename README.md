@@ -88,7 +88,7 @@ pip install scapy
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Python-Network-Firewall.git
+git clone https://github.com/Pradeepzoro/Real-time-Firewall-with-GUI-main.git
 ```
 
 Navigate to the project directory:
